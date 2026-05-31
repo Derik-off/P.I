@@ -22,7 +22,11 @@ Cronograma (OK)
 Projeto no GitHub (OK)
 
 Site online (OK)
+
 Escrever roteiro do vídeo (OK)
+
 Gravar Vídeo ( )
+
 Postar no Youtube ( )
+
 Preencher Formulário do P.I. ( )
