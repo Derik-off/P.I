@@ -16,8 +16,11 @@ Trocar local do Projeto no GitHub, deixar em apenas um Branch, no Main.
 ### Check List PI
 
 Documentação RUP (OK Ajustar)
+
 Cronograma (OK)
+
 Projeto no GitHub (OK)
+
 Site online (OK)
 Escrever roteiro do vídeo (OK)
 Gravar Vídeo ( )
